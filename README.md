@@ -62,11 +62,6 @@ This Web App Automatically Generates Sudoku Puzzle Based on Various Difficulty L
   <img src="image/SOLVED_USING_BACKTRACKING.png" width="700" alt="Backtracking Solved">
 </p>
 
->- Solved Using Crook's Algorithm
-
-<p align="center">
-  <img src="image/SOLVED_USING_CROOK.png" width="700" alt="Crooks Solved">
-</p>
 
 - Final Solved View of Web App
 
@@ -74,6 +69,4 @@ This Web App Automatically Generates Sudoku Puzzle Based on Various Difficulty L
   <img src="image/FINAL_SOLVED_VIEW.jpg" width="700" alt="Final Solved Puzzle">
 </p>
 
-## 🤝 Contributing
 
-We encourage you to contribute to Sudoku Solver for Further Improvement! Please check out the [Contributing guide](/CONTRIBUTING.md) for guidelines about how to proceed.
