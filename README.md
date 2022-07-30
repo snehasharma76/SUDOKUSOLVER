@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img alt="SUDOKU SOLVER" src="https://i.ibb.co/pvxKJcC/SUDOKU-LOGO.png" width="300px">
+  <img alt="SUDOKU SOLVER" src="https://is3-ssl.mzstatic.com/image/thumb/Purple/v4/5e/7d/1b/5e7d1b65-f252-6b16-3e0a-cef57736bfa3/source/512x512bb.jpg" width="300px">
   <h1>🧩 Sudoku Generator and Solver 🧩</h1>
   <strong>Lets Make Sudoku Solving Easy</strong>
 </div>
