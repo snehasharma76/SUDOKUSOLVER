@@ -1,20 +1,20 @@
 <div align="center">
   <br>
   <img alt="SUDOKU SOLVER" src="http://cdn.arenaconnect.arkadiumhosted.com/games-storage/sudoku/img/497x314.png" width="300px">
-  <h1>🧩 Sudoku Generator and Solver 🧩</h1>
-  <strong>Lets Make Sudoku Solving Easy</strong>
+  <h1>⌛ Sudoku  Solver ⌛</h1>
+  <strong>Let's Make Sudoku Solving Easy</strong>
 </div>
 
 # Sudoku Solver Web App
 
 This Web App Automatically Generates Sudoku Puzzle Based on Various Difficulty Level and Also Informs the Time Taken to Solve Them
 
-### How to run
+<!--### How to run
 
 - Install python and pip
 - Run pip install -r requirements.txt
 - Run python api.py
-- Open index.html 
+- Open index.html -->
 
 ### 🍀 Four Levels 
 
